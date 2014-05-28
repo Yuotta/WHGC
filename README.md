@@ -1,13 +1,11 @@
 WHGC
 ====
+- Worlds hardest game in Game Maker
 
-Worlds hardest game in Game Maker
-
-
+Features
+====
 - Level editor
 - Dyanimc levels
-
-
 - Player
 - Enemies
 - HUD ( Death Count & Coins )
@@ -15,7 +13,7 @@ Worlds hardest game in Game Maker
 
 
 GAMEPLAY
-
+====
 - Water
   - Switch to water to rust metal
 
